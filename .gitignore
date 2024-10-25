@@ -5,3 +5,5 @@ venv/
 .vscode/
 .ipynb_checkpoints
 debug.log
+videos/
+cropped_faces/
