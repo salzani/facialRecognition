@@ -1,0 +1,7 @@
+__pycache__/
+dist/
+build/
+venv/
+.vscode/
+.ipynb_checkpoints
+debug.log
